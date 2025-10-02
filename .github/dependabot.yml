@@ -1,6 +1,6 @@
 # Dependabot version
 version: 2
-
+ 
 # Define private registry
 registries:
   # Unique name for  Cloudsmith registry
